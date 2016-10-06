@@ -1,4 +1,4 @@
-# Totvs Labs Challenge - Data Scientitst
+# Totvs Labs Challenge - Data Scientist
 ##### Candidate: Fabio Silva
 ---
 **Instructions:**
